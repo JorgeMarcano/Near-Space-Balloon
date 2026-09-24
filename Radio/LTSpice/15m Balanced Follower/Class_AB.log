@@ -1,0 +1,16 @@
+LTspice 26.0.2 for Windows
+Circuit: D:\Radio\LTSpice\15m Balanced Follower\Class_AB.net
+Start Time: Tue Aug  4 09:08:05 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.573 seconds.
+
+Files loaded:
+D:\Radio\LTSpice\15m Balanced Follower\Class_AB.net
+C:\Users\Jorge\AppData\Local\LTspice\lib\cmp\standard.bjt
+D:\Radio\LTSpice\15m Balanced Follower\DMMT3904W.spice.txt
+

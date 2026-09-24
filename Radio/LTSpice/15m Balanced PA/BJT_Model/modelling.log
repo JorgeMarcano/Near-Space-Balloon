@@ -1,0 +1,16 @@
+LTspice 26.0.2 for Windows
+Circuit: D:\Radio\LTSpice\15m Balanced PA\BJT_Model\modelling.net
+Start Time: Mon Aug  3 21:19:45 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 1.225 seconds.
+
+Files loaded:
+D:\Radio\LTSpice\15m Balanced PA\BJT_Model\modelling.net
+C:\Users\Jorge\AppData\Local\LTspice\lib\cmp\standard.bjt
+D:\Radio\LTSpice\15m Balanced PA\BJT_Model\DMMT3904W.spice.txt
+

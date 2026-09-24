@@ -1,0 +1,16 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\jorge\OneDrive\Desktop\Radio\LTSpice\BJT_Model\modelling.net
+Start Time: Fri Aug 28 10:55:30 2026
+solver = Normal
+Maximum thread count: 14
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.147 seconds.
+
+Files loaded:
+C:\Users\jorge\OneDrive\Desktop\Radio\LTSpice\BJT_Model\modelling.net
+C:\Users\jorge\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\jorge\OneDrive\Desktop\Radio\LTSpice\BJT_Model\DMMT3904W.spice.txt
+
