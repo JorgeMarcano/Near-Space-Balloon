@@ -1,6 +1,6 @@
 LTspice 24.1.10 for Windows
-Circuit: E:\Radio\LTSpice\15m Balanced Output Stage\Output.net
-Start Time: Tue Aug  4 09:50:58 2026
+Circuit: C:\Users\jorge\OneDrive\Documents\Personal\Github\Near-Space-Balloon\Radio\LTSpice\15m Balanced Output Stage\Output.net
+Start Time: Thu Sep 24 22:45:46 2026
 solver = Normal
 Maximum thread count: 14
 tnom = 27
@@ -9,10 +9,10 @@ method = trap
 WARNING: Node n006 is floating.
 
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 3.942 seconds.
+Total elapsed time: 0.109 seconds.
 
 Files loaded:
-E:\Radio\LTSpice\15m Balanced Output Stage\Output.net
+C:\Users\jorge\OneDrive\Documents\Personal\Github\Near-Space-Balloon\Radio\LTSpice\15m Balanced Output Stage\Output.net
 C:\Users\jorge\AppData\Local\LTspice\lib\cmp\standard.bjt
-E:\Radio\LTSpice\15m Balanced Output Stage\DMMT3904W.spice.txt
+C:\Users\jorge\OneDrive\Documents\Personal\Github\Near-Space-Balloon\Radio\LTSpice\15m Balanced Output Stage\DMMT3904W.spice.txt
 
